@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aurangzaib",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "Scrapping",
     "node js",
