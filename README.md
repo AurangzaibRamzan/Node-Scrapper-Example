@@ -13,7 +13,7 @@ Small example of Scrapping using express,node js and cheerio.
 ## Install NodeModules
   - `yarn install`
   
-## Runs the built app in production mode.
+## Runs the app.
   - `yarn start`
 
 
