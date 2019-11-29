@@ -4,10 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aurangzaib",
   "license": "ISC",
+  "keywords": [
+    "Scrapping",
+    "node js",
+    "cheerio js",
+    "imdb"
+  ],
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
